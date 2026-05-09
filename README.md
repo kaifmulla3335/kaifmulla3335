@@ -1,4 +1,4 @@
-<img width="1440" height="2118" alt="image" src="https://github.com/user-attachments/assets/d2f6c6c7-e996-4923-a95a-c455705e034b" /># Hi, I'm Mohammadkaif Mulla 👋
+# Hi, I'm Mohammadkaif Mulla 👋
 
 **Frontend Developer** | React · TypeScript · Python
 
