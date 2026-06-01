@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadkaif--mulla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/kaifmulla3335/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kaif--mulla--dev.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaifmulla3335-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifmulla3335)
 [![Email](https://img.shields.io/badge/Email-kaifmulla3335@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifmulla3335@gmail.com)
 
@@ -14,6 +14,8 @@
 > 🎓 **B.Tech CSE Final Year** @ D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur &nbsp;|&nbsp; **CGPA: 8.67**
 >
 > 💼 **Junior Software Developer Intern** @ StarSoftech, Hubali &nbsp;|&nbsp; Sept 2025 – July 2026 (11 months)
+>
+> 🟢 **Open to Work** — Actively looking for Software Developer / Frontend Developer roles
 
 </div>
 
@@ -21,9 +23,9 @@
 
 ## 👨‍💻 About Me
 
-Final-year B.Tech Computer Science student and Software Developer with **hands-on, production-level experience** building and shipping real-world web applications. Currently interning at **StarSoftech, Hubali** where I develop live SaaS products — **SalanaPay** (subscription & employee management) and **HRM Dashboard** (HR lifecycle management) — used by real organizations.
+Final-year B.Tech CSE student and Software Developer with **hands-on, production-level internship experience** building and shipping real SaaS products used by real organizations. Currently interning at **StarSoftech, Hubali** where I work on **SalanaPay** (subscription & employee management) and **HRM Dashboard** (HR lifecycle management).
 
-Strong in **React + TypeScript frontend development**, REST API integration, and writing clean, scalable code. Quick learner with a growth mindset — I transitioned from college projects to production-level code within weeks of joining the internship.
+Strong in **React + TypeScript frontend development**, Spring Boot API integration, and writing clean, scalable code. Delivered multiple features independently in a live production environment — from UI design to backend debugging.
 
 📍 Kolhapur, Maharashtra, India &nbsp;|&nbsp; 📱 +91-8624913335
 
@@ -55,8 +57,8 @@ Strong in **React + TypeScript frontend development**, REST API integration, and
 <td valign="top" width="33%">
 
 **Languages & Tools**
-- C · C++ · Java
-- JavaScript · TypeScript · Python
+- C · C++ · Java · Python
+- JavaScript · TypeScript
 - Git · GitHub · VS Code
 - IntelliJ IDEA · Figma · Swagger
 
@@ -69,43 +71,43 @@ Strong in **React + TypeScript frontend development**, REST API integration, and
 ## 💼 Work Experience
 
 ### 🏢 StarSoftech Pvt Ltd, Hubali, Karnataka
-**Junior Software Developer Intern** &nbsp;|&nbsp; `Sept 2025 – July 2026` (11 months)
+**Junior Software Developer Intern** &nbsp;|&nbsp; `Sept 2025 – July 2026` &nbsp;|&nbsp; 11 months
 
-> *Selected for an 11-month internship through University campus placement*
+> *Selected through University campus placement. Working on live, production-level SaaS products.*
 
 #### 🔷 Project 1 — SalanaPay
-A **subscription-based organization and employee management SaaS platform** with three modules: Super Admin (company level), Admin (organization level), and Employee (individual access).
+A **subscription-based organization & employee management SaaS platform** with Super Admin, Admin, and Employee modules.
 
-**My Contributions:**
-- ⚡ Built dynamic, responsive UIs using **React + Vite + TypeScript** for a live production application
+**Key Contributions:**
+- ⚡ Built dynamic, responsive UIs using **React + Vite + TypeScript** in a live production codebase
 - 🌍 Implemented **i18n (multi-language support)** for global accessibility
-- 🔄 Migrated state management from **Context API → React Query** for optimized data handling
+- 🔄 Migrated state management from **Context API → React Query** for optimized data handling & performance
 - 🔗 Integrated frontend with **Spring Boot REST APIs** using Postman and Swagger
-- 🧩 Built reusable hooks, components, and service layers for scalable architecture
-- 🐛 Gained backend exposure — debugged and fixed issues across Controllers, DTOs, Services, Repositories, and Models
+- 🧩 Built reusable hooks, components, and service layers following **clean architecture principles**
+- 🐛 Gained full-stack exposure — debugged issues across Controllers, DTOs, Services, Repositories & Models
 
 #### 🔷 Project 2 — HRM Dashboard
-A **comprehensive Human Resource Management system** for managing employee lifecycle, attendance, payroll insights, and organizational operations through an interactive dashboard.
+A **comprehensive Human Resource Management system** covering employee lifecycle, attendance, payroll, and HR operations.
 
-**My Contributions:**
-- 👥 Developed complete **Employee Management module** — Employee records, Invite Employees, Disable Portal Access, Letters, Manage Activities, Identity Card
-- ⚙️ Built **Settings (General Config)** — roles, permissions, and organizational configurations
+**Key Contributions:**
+- 👥 Built complete **Employee Management module** — records, invitations, portal access control, letters, identity cards
+- ⚙️ Developed **Settings & Roles** — permissions, organizational config, role assignments
 - 📊 Implemented **Reports module** — Employee & Expense reports with interactive data views
-- 🔁 Designed and implemented complete **HR workflows and detail pages**
-- 📋 Worked on multi-section dashboard including Attendance & Time Management, Requests & Workflow, and Dashboard Analytics
+- 🔁 Designed full **HR workflows and operation detail pages** from scratch
+- 📋 Worked across Attendance & Time Management, Requests & Workflow, and Dashboard Analytics modules
 
-**Tech Stack:** `React` `TypeScript` `Vite` `Java` `Spring Boot` `PostgreSQL` `Git` `GitHub` `VS Code` `IntelliJ IDEA` `Swagger`
+**Tech Stack:** `React` `TypeScript` `Vite` `Java` `Spring Boot` `PostgreSQL` `Git` `IntelliJ IDEA` `Swagger`
 
 ---
 
 ## 🚀 Projects
 
-### ⚡ [PowerX Gym](https://github.com/kaifmulla3335/powerx-gym)
-> AI-powered gym website
+### ⚡ [PowerX Gym](https://github.com/kaifmulla3335/powerx-gym) &nbsp;·&nbsp; 🌐 [Live Demo](https://powerx-gym.vercel.app/)
+> AI-powered gym & fitness platform
 
-- Built an AI-powered gym platform with **workout planner, diet planner & fitness chatbot**
-- Used **Groq LLaMA 3.3** for real-time AI responses via Vercel Edge Functions
-- Responsive UI with **React 18 + Tailwind CSS**
+- Built an AI gym platform with **workout planner, diet planner & fitness chatbot**
+- Powered by **Groq LLaMA 3.3** with real-time AI responses via **Vercel Edge Functions**
+- Fully responsive UI with **React 18 + Tailwind CSS**
 
 `React 18` `Tailwind CSS` `Groq LLaMA 3.3` `Vercel Edge Functions` `JavaScript`
 
@@ -115,7 +117,7 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 > Modern blood donation platform
 
 - Connects donors, hospitals, and blood banks with **real-time inventory management**
-- Features **emergency request management** and live availability tracking
+- Features **emergency request management** and live blood availability tracking
 
 `HTML` `CSS` `JavaScript`
 
@@ -125,19 +127,19 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 > Full-stack JWT authentication system
 
 - Full Stack **JWT Authentication with Role-Based Authorization**
-- Backend: **Spring Boot 3 + Spring Security** | Frontend: **React + PostgreSQL**
-- Stateless auth with BCrypt password hashing and protected routes
+- Backend: **Spring Boot 3 + Spring Security** | Frontend: **React** | DB: **PostgreSQL**
+- Stateless auth, BCrypt password hashing, and protected frontend routes
 
 `Spring Boot 3` `React` `PostgreSQL` `JWT` `Java`
 
 ---
 
-### 🌍 [IPTrace](https://github.com/kaifmulla3335/IPTrace)
-> Modern IP address tracker
+### 🌍 [IPTrace](https://github.com/kaifmulla3335/IPTrace) &nbsp;·&nbsp; 🌐 [Live Demo](https://ip-trace-alpha.vercel.app/)
+> Real-time IP address tracker
 
-- Real-time **geolocation insights, ISP/ASN intelligence, and VPN detection**
-- Built with **React, Tailwind CSS, Leaflet, and Framer Motion**
-- Features interactive live maps and sleek animated UI
+- Displays **geolocation, ISP/ASN intelligence, and VPN detection** for any IP
+- Built with **React, Tailwind CSS, Leaflet maps, and Framer Motion** animations
+- Sleek animated UI with interactive live map
 
 `React` `Tailwind CSS` `Leaflet` `Framer Motion` `JavaScript`
 
@@ -146,20 +148,29 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 ### 🌐 [Tours & Travels Management Website](https://github.com/kaifmulla3335/Tours-and-Travels-Website)
 > Full-stack travel booking web application
 
-- Built using **HTML, CSS, JavaScript, PHP, and MySQL**
-- Features region-wise package browsing, tour booking, UPI payment flow, and PDF invoice generation
-- Includes dedicated **Admin Panel** for managing packages, regions, bookings, and payment verification
-- Role-based access control for Users and Admins
+- Region-wise package browsing, tour booking, UPI payment flow, and **PDF invoice generation**
+- Dedicated **Admin Panel** — packages, regions, bookings, payment verification
+- Role-based access for Users and Admins
 
-`PHP` `MySQL` `Bootstrap` `FPDF` `XAMPP`
+`PHP` `MySQL` `Bootstrap` `FPDF` `JavaScript`
+
+---
+
+### 🚗 [KmCarRentals](https://github.com/kaifmulla3335/KmCarRentals) &nbsp;·&nbsp; 🌐 [Live Demo](https://km-car-rentals.vercel.app/)
+> Car rental web application
+
+- Complete car rental management system with smooth booking flow
+- Clean, responsive UI focused on user experience
+
+`JavaScript` `HTML` `CSS`
 
 ---
 
 ### 🌱 [Pumpkin Seed Taxonomy](https://github.com/kaifmulla3335/pumpkin-seed-taxonomy)
 > ML-based seed variety classifier
 
-- Machine learning web application predicting pumpkin seed varieties using **classification algorithms**
-- Built with **Flask** backend and integrated prediction API
+- ML web app predicting pumpkin seed varieties using **classification algorithms**
+- Flask backend with integrated prediction API
 
 `Python` `Flask` `Machine Learning` `HTML` `CSS` `JavaScript`
 
@@ -168,18 +179,18 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 ### 🍽️ [Restaurant Recommendation System](https://github.com/kaifmulla3335/Restaurant-Recommendation-system)
 > AI-powered restaurant recommender
 
-- Built using **TF-IDF vectorization and cosine similarity** for intelligent recommendations
-- Filters results by cuisine type, budget, and ratings
+- **TF-IDF vectorization + cosine similarity** for intelligent recommendations
+- Filters by cuisine, budget, and ratings
 
 `Python` `Flask` `TF-IDF` `Cosine Similarity` `Jupyter Notebook`
 
 ---
 
-### 💼 [Personal Portfolio](https://github.com/kaifmulla3335/my-portfolio)
-> Showcasing projects, skills, and experience
+### 💼 [Personal Portfolio](https://github.com/kaifmulla3335/my-portfolio) &nbsp;·&nbsp; 🌐 [Live Demo](https://kaif-mulla-dev.vercel.app/)
+> Personal developer portfolio
 
 - Built with **React, Vite, and Tailwind CSS**
-- Clean, responsive design with project showcases and contact section
+- Showcases projects, skills, work experience, and contact info
 
 `React` `Vite` `Tailwind CSS` `JavaScript`
 
@@ -197,7 +208,7 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kaifmulla3335&theme=github-dark-blue&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=kaifmulla3335&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -207,7 +218,7 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 
 - 🥈 **2nd Rank** — CodeWizard Coding Competition @ DYP-ATU, Talsande
 - ⚡ **National Level Hackathon (36 hours)** — HackEra 2k24, Sanjay Godawat University, Kolhapur
-- 🧑‍💻 **Coding Club Member (2 years)** — AlgoZenith DYP-ATU Chapter
+- 🧑‍💻 **Coding Club Member (2 years)** — AlgoZenith, DYP-ATU Chapter
   - Organized workshops, coding challenges, and tech projects
   - Promoted learning through *Code, Collaboration, and Creation*
 
@@ -215,9 +226,9 @@ A **comprehensive Human Resource Management system** for managing employee lifec
 
 ## 🎓 Education
 
-**B.Tech in Computer Science Engineering** *(Final Year, 2022 – 2026)*
-D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur
-**CGPA: 8.67**
+| Degree | Institution | Year | CGPA |
+|---|---|---|---|
+| **B.Tech — Computer Science & Engineering** | D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur | 2022 – 2026 | **8.67** |
 
 ---
 
@@ -230,7 +241,7 @@ D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur
 | 📧 Email | [kaifmulla3335@gmail.com](mailto:kaifmulla3335@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/mohammadkaif-mulla](https://www.linkedin.com/in/mohammadkaif-mulla/) |
 | 🐙 GitHub | [github.com/kaifmulla3335](https://github.com/kaifmulla3335) |
-| 📁 Portfolio | [my-portfolio](https://github.com/kaifmulla3335/my-portfolio) |
+| 🌐 Portfolio | [kaif-mulla-dev.vercel.app](https://kaif-mulla-dev.vercel.app/) |
 | 📍 Location | Kolhapur, Maharashtra, India |
 
 </div>
