@@ -2,20 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Mohammadkaif%20Mulla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Spring%20Boot&descSize=18&descAlignY=60&descColor=93c5fd" />
 
-<br/>
+# 👋 Hi, I'm Mohammadkaif Mulla
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadkaif--mulla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaif--mulla--dev.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-kaifmulla3335-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifmulla3335)
-[![Email](https://img.shields.io/badge/Email-kaifmulla3335@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifmulla3335@gmail.com)
+### Software Developer | Final Year B.Tech CSE Student
 
-<br/>
-
-> 🎓 **B.Tech CSE Final Year** @ D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur &nbsp;|&nbsp; **CGPA: 8.67**
->
-> 💼 **Junior Software Developer Intern** @ StarSoftech, Hubali &nbsp;|&nbsp; Sept 2025 – July 2026 (11 months)
->
-> 🟢 **Open to Work** — Actively looking for Software Developer / Frontend Developer roles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-kaifmulla3335-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kaifmulla3335)
 
 </div>
 
@@ -23,176 +16,119 @@
 
 ## 👨‍💻 About Me
 
-Final-year B.Tech CSE student and Software Developer with **hands-on, production-level internship experience** building and shipping real SaaS products used by real organizations. Currently interning at **StarSoftech, Hubali** where I work on **SalanaPay** (subscription & employee management) and **HRM Dashboard** (HR lifecycle management).
+🎓 Final Year B.Tech Computer Science & Engineering Student (CGPA: **8.67**)
 
-Strong in **React + TypeScript frontend development**, Spring Boot API integration, and writing clean, scalable code. Delivered multiple features independently in a live production environment — from UI design to backend debugging.
+💼 Currently working as a **Junior Software Developer Intern at StarSoftech Pvt. Ltd.**
 
-📍 Kolhapur, Maharashtra, India &nbsp;|&nbsp; 📱 +91-8624913335
+🚀 Building production-level SaaS applications using React, TypeScript, Spring Boot and PostgreSQL.
+
+🌱 Interested in Full Stack Development, Scalable Systems and Modern Web Technologies.
+
+📍 Kolhapur, Maharashtra, India
+
+🟢 Open to Software Developer / Frontend Developer Opportunities
+
+---
+
+## 💼 Experience
+
+### Junior Software Developer Intern | StarSoftech Pvt. Ltd.
+
+**Sept 2025 – Jul 2026**
+
+Worked on production SaaS applications including **SalanaPay** and **HRM Dashboard**.
+
+* Developed scalable frontend features using React, TypeScript and Vite
+* Integrated Spring Boot REST APIs
+* Implemented i18n (multi-language support)
+* Built reusable components and custom hooks
+* Migrated application state handling to React Query
+* Collaborated on debugging and feature delivery across frontend and backend modules
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### Frontend
 
-**Frontend**
-- React.js · Vite · TypeScript
-- Tailwind CSS · HTML5 · CSS3
-- React Query · Context API
-- i18n (Multi-language support)
-- Reusable component architecture
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+### Backend
 
-**Backend & Database**
-- Java · Spring Boot · REST APIs
-- PHP · MySQL · PostgreSQL
-- DTOs · Services · Repositories
-- API Integration (Postman, Swagger)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+### Database
 
-**Languages & Tools**
-- C · C++ · Java · Python
-- JavaScript · TypeScript
-- Git · GitHub · VS Code
-- IntelliJ IDEA · Figma · Swagger
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-</td>
-</tr>
-</table>
+### Tools
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-API_Documentation-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 💼 Work Experience
+## 🚀 Featured Projects
 
-### 🏢 StarSoftech Pvt Ltd, Hubali, Karnataka
-**Junior Software Developer Intern** &nbsp;|&nbsp; `Sept 2025 – July 2026` &nbsp;|&nbsp; 11 months
+### 🏋️ PowerX Gym
 
-> *Selected through University campus placement. Working on live, production-level SaaS products.*
+AI-powered fitness platform featuring workout planner, diet planner and fitness chatbot.
 
-#### 🔷 Project 1 — SalanaPay
-A **subscription-based organization & employee management SaaS platform** with Super Admin, Admin, and Employee modules.
+**Tech:** React, Tailwind CSS, Groq LLaMA 3.3, Vercel
 
-**Key Contributions:**
-- ⚡ Built dynamic, responsive UIs using **React + Vite + TypeScript** in a live production codebase
-- 🌍 Implemented **i18n (multi-language support)** for global accessibility
-- 🔄 Migrated state management from **Context API → React Query** for optimized data handling & performance
-- 🔗 Integrated frontend with **Spring Boot REST APIs** using Postman and Swagger
-- 🧩 Built reusable hooks, components, and service layers following **clean architecture principles**
-- 🐛 Gained full-stack exposure — debugged issues across Controllers, DTOs, Services, Repositories & Models
-
-#### 🔷 Project 2 — HRM Dashboard
-A **comprehensive Human Resource Management system** covering employee lifecycle, attendance, payroll, and HR operations.
-
-**Key Contributions:**
-- 👥 Built complete **Employee Management module** — records, invitations, portal access control, letters, identity cards
-- ⚙️ Developed **Settings & Roles** — permissions, organizational config, role assignments
-- 📊 Implemented **Reports module** — Employee & Expense reports with interactive data views
-- 🔁 Designed full **HR workflows and operation detail pages** from scratch
-- 📋 Worked across Attendance & Time Management, Requests & Workflow, and Dashboard Analytics modules
-
-**Tech Stack:** `React` `TypeScript` `Vite` `Java` `Spring Boot` `PostgreSQL` `Git` `IntelliJ IDEA` `Swagger`
+🔗 https://powerx-gym.vercel.app/
 
 ---
 
-## 🚀 Projects
+### 🔐 JWT Role-Based Authentication
 
-### ⚡ [PowerX Gym](https://github.com/kaifmulla3335/powerx-gym) &nbsp;·&nbsp; 🌐 [Live Demo](https://powerx-gym.vercel.app/)
-> AI-powered gym & fitness platform
+Full Stack authentication system with JWT security and role-based authorization.
 
-- Built an AI gym platform with **workout planner, diet planner & fitness chatbot**
-- Powered by **Groq LLaMA 3.3** with real-time AI responses via **Vercel Edge Functions**
-- Fully responsive UI with **React 18 + Tailwind CSS**
+**Tech:** Spring Boot, React, PostgreSQL, JWT
 
-`React 18` `Tailwind CSS` `Groq LLaMA 3.3` `Vercel Edge Functions` `JavaScript`
+🔗 https://github.com/kaifmulla3335/jwt-role-based-auth
 
 ---
 
-### 🩸 [Boodbridge](https://github.com/kaifmulla3335/Boodbridge)
-> Modern blood donation platform
+### 🌍 Tours & Travels Management System
 
-- Connects donors, hospitals, and blood banks with **real-time inventory management**
-- Features **emergency request management** and live blood availability tracking
+Travel booking platform with package management, booking system and admin dashboard.
 
-`HTML` `CSS` `JavaScript`
+**Tech:** PHP, MySQL, Bootstrap, JavaScript
 
----
-
-### 🔐 [JWT Role-Based Auth](https://github.com/kaifmulla3335/jwt-role-based-auth)
-> Full-stack JWT authentication system
-
-- Full Stack **JWT Authentication with Role-Based Authorization**
-- Backend: **Spring Boot 3 + Spring Security** | Frontend: **React** | DB: **PostgreSQL**
-- Stateless auth, BCrypt password hashing, and protected frontend routes
-
-`Spring Boot 3` `React` `PostgreSQL` `JWT` `Java`
+🔗 https://github.com/kaifmulla3335/Tours-and-Travels-Website
 
 ---
 
-### 🌍 [IPTrace](https://github.com/kaifmulla3335/IPTrace) &nbsp;·&nbsp; 🌐 [Live Demo](https://ip-trace-alpha.vercel.app/)
-> Real-time IP address tracker
+### 📍 IPTrace
 
-- Displays **geolocation, ISP/ASN intelligence, and VPN detection** for any IP
-- Built with **React, Tailwind CSS, Leaflet maps, and Framer Motion** animations
-- Sleek animated UI with interactive live map
+Real-time IP tracking application with geolocation intelligence and interactive maps.
 
-`React` `Tailwind CSS` `Leaflet` `Framer Motion` `JavaScript`
+**Tech:** React, Tailwind CSS, Leaflet, Framer Motion
 
----
-
-### 🌐 [Tours & Travels Management Website](https://github.com/kaifmulla3335/Tours-and-Travels-Website)
-> Full-stack travel booking web application
-
-- Region-wise package browsing, tour booking, UPI payment flow, and **PDF invoice generation**
-- Dedicated **Admin Panel** — packages, regions, bookings, payment verification
-- Role-based access for Users and Admins
-
-`PHP` `MySQL` `Bootstrap` `FPDF` `JavaScript`
+🔗 https://ip-trace-alpha.vercel.app/
 
 ---
 
-### 🚗 [KmCarRentals](https://github.com/kaifmulla3335/KmCarRentals) &nbsp;·&nbsp; 🌐 [Live Demo](https://km-car-rentals.vercel.app/)
-> Car rental web application
+### 🚗 KmCarRentals
 
-- Complete car rental management system with smooth booking flow
-- Clean, responsive UI focused on user experience
+Modern car rental platform with responsive booking experience.
 
-`JavaScript` `HTML` `CSS`
+**Tech:** HTML, CSS, JavaScript
 
----
-
-### 🌱 [Pumpkin Seed Taxonomy](https://github.com/kaifmulla3335/pumpkin-seed-taxonomy)
-> ML-based seed variety classifier
-
-- ML web app predicting pumpkin seed varieties using **classification algorithms**
-- Flask backend with integrated prediction API
-
-`Python` `Flask` `Machine Learning` `HTML` `CSS` `JavaScript`
-
----
-
-### 🍽️ [Restaurant Recommendation System](https://github.com/kaifmulla3335/Restaurant-Recommendation-system)
-> AI-powered restaurant recommender
-
-- **TF-IDF vectorization + cosine similarity** for intelligent recommendations
-- Filters by cuisine, budget, and ratings
-
-`Python` `Flask` `TF-IDF` `Cosine Similarity` `Jupyter Notebook`
-
----
-
-### 💼 [Personal Portfolio](https://github.com/kaifmulla3335/my-portfolio) &nbsp;·&nbsp; 🌐 [Live Demo](https://kaif-mulla-dev.vercel.app/)
-> Personal developer portfolio
-
-- Built with **React, Vite, and Tailwind CSS**
-- Showcases projects, skills, work experience, and contact info
-
-`React` `Vite` `Tailwind CSS` `JavaScript`
+🔗 https://km-car-rentals.vercel.app/
 
 ---
 
@@ -200,58 +136,44 @@ A **comprehensive Human Resource Management system** covering employee lifecycle
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaifmulla3335&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmulla3335&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaifmulla3335&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmulla3335&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kaifmulla3335&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=kaifmulla3335&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Achievements
 
-- 🥈 **2nd Rank** — CodeWizard Coding Competition @ DYP-ATU, Talsande
-- ⚡ **National Level Hackathon (36 hours)** — HackEra 2k24, Sanjay Godawat University, Kolhapur
-- 🧑‍💻 **Coding Club Member (2 years)** — AlgoZenith, DYP-ATU Chapter
-  - Organized workshops, coding challenges, and tech projects
-  - Promoted learning through *Code, Collaboration, and Creation*
+🥈 2nd Rank — CodeWizard Coding Competition
 
----
+⚡ National Level Hackathon Participant — HackEra 2K24
 
-## 🎓 Education
-
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| **B.Tech — Computer Science & Engineering** | D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur | 2022 – 2026 | **8.67** |
+🎓 B.Tech CSE — CGPA 8.67
 
 ---
 
-## 📬 Let's Connect
+## 📫 Connect With Me
 
-<div align="center">
+📧 Email: **[kaifmulla3335@gmail.com](mailto:kaifmulla3335@gmail.com)**
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [kaifmulla3335@gmail.com](mailto:kaifmulla3335@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/mohammadkaif-mulla](https://www.linkedin.com/in/mohammadkaif-mulla/) |
-| 🐙 GitHub | [github.com/kaifmulla3335](https://github.com/kaifmulla3335) |
-| 🌐 Portfolio | [kaif-mulla-dev.vercel.app](https://kaif-mulla-dev.vercel.app/) |
-| 📍 Location | Kolhapur, Maharashtra, India |
+💼 LinkedIn: **linkedin.com/in/mohammadkaif-mulla**
 
-</div>
+🌐 Portfolio: **kaif-mulla-dev.vercel.app**
+
+🐙 GitHub: **github.com/kaifmulla3335**
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" />
-
-*"Building production-level software, one commit at a time."*
+### 🚀 Building production-level software, one commit at a time.
 
 </div>
