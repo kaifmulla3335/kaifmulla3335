@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Mohammadkaif%20Mulla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Spring%20Boot&descSize=18&descAlignY=60&descColor=93c5fd" />
-
 # 👋 Hi, I'm Mohammadkaif Mulla
 
-### Software Developer | Final Year B.Tech CSE Student
+### Software Developer Intern | Final Year B.Tech - Computer Science & Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge\&logo=vercel\&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-kaifmulla3335-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kaifmulla3335)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square\&logo=vercel\&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kaifmulla3335)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kaifmulla3335@gmail.com)
 
 </div>
 
@@ -16,17 +15,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science & Engineering Student (CGPA: **8.67**)
+🎓 Final Year B.Tech Computer Science & Engineering Student (**CGPA: 8.67**)
 
-💼 Currently working as a **Junior Software Developer Intern at StarSoftech Pvt. Ltd.**
+💼 Junior Software Developer Intern at **StarSoftech Pvt. Ltd.**
 
 🚀 Building production-level SaaS applications using React, TypeScript, Spring Boot and PostgreSQL.
 
-🌱 Interested in Full Stack Development, Scalable Systems and Modern Web Technologies.
+🌱 Passionate about Full Stack Development, scalable architectures and modern web technologies.
 
-📍 Kolhapur, Maharashtra, India
-
-🟢 Open to Software Developer / Frontend Developer Opportunities
+🟢 Open to **Software Developer**, **Frontend Developer** and **Full Stack Developer** opportunities.
 
 ---
 
@@ -34,16 +31,20 @@
 
 ### Junior Software Developer Intern | StarSoftech Pvt. Ltd.
 
-**Sept 2025 – Jul 2026**
+📍 Hubballi, Karnataka
+📅 Sept 2025 – Jul 2026
 
-Worked on production SaaS applications including **SalanaPay** and **HRM Dashboard**.
+Worked on production SaaS platforms including **SalanaPay** and **HRM Dashboard**.
+
+#### Key Contributions
 
 * Developed scalable frontend features using React, TypeScript and Vite
 * Integrated Spring Boot REST APIs
-* Implemented i18n (multi-language support)
+* Implemented multi-language support (i18n)
 * Built reusable components and custom hooks
-* Migrated application state handling to React Query
-* Collaborated on debugging and feature delivery across frontend and backend modules
+* Migrated state management to React Query
+* Collaborated on frontend-backend debugging and feature delivery
+* Worked in a real production environment with live users
 
 ---
 
@@ -51,32 +52,32 @@ Worked on production SaaS applications including **SalanaPay** and **HRM Dashboa
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss\&logoColor=white)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F?logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens\&logoColor=white)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql\&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-API_Documentation-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger\&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
 
 ---
 
@@ -94,7 +95,7 @@ AI-powered fitness platform featuring workout planner, diet planner and fitness 
 
 ### 🔐 JWT Role-Based Authentication
 
-Full Stack authentication system with JWT security and role-based authorization.
+Full Stack authentication and authorization system using Spring Boot Security and JWT.
 
 **Tech:** Spring Boot, React, PostgreSQL, JWT
 
@@ -104,9 +105,9 @@ Full Stack authentication system with JWT security and role-based authorization.
 
 ### 🌍 Tours & Travels Management System
 
-Travel booking platform with package management, booking system and admin dashboard.
+Complete travel booking platform with package management, booking flow and admin dashboard.
 
-**Tech:** PHP, MySQL, Bootstrap, JavaScript
+**Tech:** PHP, MySQL, Bootstrap
 
 🔗 https://github.com/kaifmulla3335/Tours-and-Travels-Website
 
@@ -114,7 +115,7 @@ Travel booking platform with package management, booking system and admin dashbo
 
 ### 📍 IPTrace
 
-Real-time IP tracking application with geolocation intelligence and interactive maps.
+Real-time IP intelligence and geolocation tracker with interactive maps.
 
 **Tech:** React, Tailwind CSS, Leaflet, Framer Motion
 
@@ -124,7 +125,7 @@ Real-time IP tracking application with geolocation intelligence and interactive 
 
 ### 🚗 KmCarRentals
 
-Modern car rental platform with responsive booking experience.
+Responsive car rental booking platform with modern UI.
 
 **Tech:** HTML, CSS, JavaScript
 
@@ -136,9 +137,9 @@ Modern car rental platform with responsive booking experience.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaifmulla3335&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaifmulla3335&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmulla3335&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmulla3335&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -154,21 +155,21 @@ Modern car rental platform with responsive booking experience.
 
 🥈 2nd Rank — CodeWizard Coding Competition
 
-⚡ National Level Hackathon Participant — HackEra 2K24
+⚡ Participant — National Level Hackathon (HackEra 2K24)
 
 🎓 B.Tech CSE — CGPA 8.67
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-📧 Email: **[kaifmulla3335@gmail.com](mailto:kaifmulla3335@gmail.com)**
+📧 **Email:** [kaifmulla3335@gmail.com](mailto:kaifmulla3335@gmail.com)
 
-💼 LinkedIn: **linkedin.com/in/mohammadkaif-mulla**
+💼 **LinkedIn:** linkedin.com/in/mohammadkaif-mulla
 
-🌐 Portfolio: **kaif-mulla-dev.vercel.app**
+🌐 **Portfolio:** kaif-mulla-dev.vercel.app
 
-🐙 GitHub: **github.com/kaifmulla3335**
+📍 **Location:** Kolhapur, Maharashtra, India
 
 ---
 
