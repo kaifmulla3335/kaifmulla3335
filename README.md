@@ -4,10 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadkaif--mulla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaif--mulla--dev.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-kaifmulla3335-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifmulla3335)
-[![Email](https://img.shields.io/badge/Email-kaifmulla3335@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifmulla3335@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://kaif-mulla-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifmulla3335)
 
 </div>
 
@@ -15,13 +14,15 @@
 
 ## 👨‍💻 About Me
 
-Software Developer with **11 months of hands-on internship experience** building and shipping production-level web applications. At **StarSoftech Pvt. Ltd.**, I worked on three live SaaS products — **SalanaPay ERP**, **SmartAcad ERP**, and **HRM Dashboard** — used by real organizations.
+Software Developer with **11 months of hands-on internship experience** building and shipping production-level web applications at **StarSoftech Pvt. Ltd.**, where I worked on three live SaaS products — **SalanaPay ERP**, **SmartAcad ERP**, and **HRM Dashboard**. Strong in **React + TypeScript** frontend development, Spring Boot API integration, and writing clean, scalable code. Currently in Final Year B.Tech CSE @ D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur — **CGPA: 9/10**. Actively looking for **Software Developer · Frontend Developer · Full Stack Developer** roles.
 
-Strong in **React + TypeScript** frontend development, Spring Boot API integration, and writing clean, maintainable code. B.Tech CSE Final Year @ D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur — **CGPA: 9/10**.
+---
 
-🟢 **Open to Work** — Software Developer · Frontend Developer · Full Stack Developer
+## 🎓 Education
 
-📍 Kolhapur, Maharashtra, India &nbsp;|&nbsp; 📱 +91-8624913335
+**B.Tech — Computer Science & Engineering** &nbsp;|&nbsp; 2022 – 2026
+D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur
+**CGPA: 9 / 10**
 
 ---
 
@@ -42,14 +43,16 @@ Strong in **React + TypeScript** frontend development, Spring Boot API integrati
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
-**Tools:** &nbsp;
+**Deployment & Tools:** &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
