@@ -12,9 +12,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hii, I'm Mohammadkaif
 
-Software Developer with **11 months of hands-on internship experience** building and shipping production-level web applications at **StarSoftech Pvt. Ltd.**, where I worked on three live SaaS products — **SalanaPay ERP**, **SmartAcad ERP**, and **HRM Dashboard**. Strong in **React + TypeScript** frontend development, Spring Boot API integration, and writing clean, scalable code. Currently in Final Year B.Tech CSE @ D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur — **CGPA: 9/10**. Actively looking for **Software Developer · Frontend Developer · Full Stack Developer** roles.
+🎓 B.Tech CSE Final Year &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 🚀 Full Stack Enthusiast
+
+### 🙋‍♂️ About Me
+
+Computer Science Engineering student with **11 months of hands-on internship experience** in full-stack development, primarily focused on frontend. Skilled in building responsive, production-level interfaces using **React.js, TypeScript, and Tailwind CSS**, with strong experience integrating REST APIs built on **Java and Spring Boot**. Comfortable working across the stack, with a solid foundation in backend logic, databases, and collaborative, real-world development workflows.
 
 ---
 
