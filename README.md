@@ -14,7 +14,7 @@
 
 ## 👋 Hii, I'm Mohammadkaif
 
-🎓 B.Tech CSE Final Year &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 🚀 Full Stack Enthusiast
+🎓 B.Tech CSE Final Year &nbsp;|&nbsp; 💻 Software Engineer &nbsp;|&nbsp; 🚀 Full Stack Enthusiast
 
 ### 🙋‍♂️ About Me
 
@@ -26,7 +26,7 @@ Computer Science Engineering student with **11 months of hands-on internship exp
 
 **B.Tech — Computer Science & Engineering** &nbsp;|&nbsp; 2022 – 2026
 D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur
-**CGPA: 9 / 10**
+**CGPA: 9.20 / 10**
 
 ---
 
