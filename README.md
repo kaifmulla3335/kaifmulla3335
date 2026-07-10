@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Mohammadkaif%20Mulla&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Spring%20Boot&descSize=17&descAlignY=60&descColor=93c5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Mohammadkaif%20Mulla&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=20&descAlignY=60&descColor=93c5fd" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## 👋 Hii, I'm Mohammadkaif
 
-🎓 B.Tech CSE Final Year &nbsp;|&nbsp; 💻 Software Engineer &nbsp;|&nbsp; 🚀 Full Stack Enthusiast
+🎓 B.Tech CSE Final Year &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 🚀 Full Stack Enthusiast
 
 ### 🙋‍♂️ About Me
 
@@ -26,7 +26,7 @@ Computer Science Engineering student with **11 months of hands-on internship exp
 
 **B.Tech — Computer Science & Engineering** &nbsp;|&nbsp; 2022 – 2026
 D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur
-**CGPA: 9.20 / 10**
+**CGPA: 9 / 10**
 
 ---
 
