@@ -26,7 +26,7 @@ Computer Science Engineering student with **11 months of hands-on internship exp
 
 **B.Tech — Computer Science & Engineering** &nbsp;|&nbsp; 2022 – 2026
 D. Y. Patil Agriculture & Technical University, Talsande, Kolhapur
-**CGPA: 9 / 10**
+**CGPA: 8.77 / 10**
 
 ---
 
