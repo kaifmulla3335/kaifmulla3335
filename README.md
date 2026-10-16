@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:111c3a,100:1d4ed8&height=200&section=header&text=Mohammadkaif%20Mulla&fontSize=44&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=180&section=header&text=Mohammadkaif%20Mulla&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=58&descColor=93c5fd" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%C2%B7+Python+%C2%B7+Spring+Boot;Building+production-level+software;Open+to+Full+Stack+%2F+Python+roles" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadkaif-mulla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammadkaif-mulla-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaifmulla3335)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaifmulla3335@gmail.com)
 
 </div>
@@ -18,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Developer** and Computer Science graduate with **11 months of internship experience** building production SaaS applications. I work across the stack: **React.js + TypeScript** on the frontend, **Spring Boot** and **Python (FastAPI)** on the backend, with **PostgreSQL** as my main database. I also build AI-powered features using LLM APIs.
+I'm a **Full Stack Developer** and Computer Science graduate with **11 months of internship experience** building production SaaS applications. I build **Python Full Stack** (React + FastAPI + PostgreSQL) and **Java Full Stack** (React + Spring Boot + PostgreSQL) applications, and I also add AI-powered features using LLM APIs.
 
 | | |
 |---|---|
@@ -39,17 +35,6 @@ I'm a **Full Stack Developer** and Computer Science graduate with **11 months of
 - Integrated React frontends with **Spring Boot REST APIs** and tested endpoints with Swagger UI and Postman.
 - Migrated state management from Context API to **TanStack Query** for better caching and server-state handling.
 - Implemented **debounced search** (up to 80–85% fewer API requests) and **English/Hindi i18n** support.
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🏫 **[School Management System](https://github.com/kaifmulla3335/school-management-system-mvp)** | Python full-stack MVP with JWT auth, Argon2 hashing, role-based access (admin/student) and dashboards | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `React` |
-| ✈️ **[TravelNest](https://github.com/kaifmulla3335/Travelnest-booking-platform)** · [Live](https://travelnest-booking-platform.vercel.app/) | AI-powered travel booking platform with Razorpay payments, RAG-lite chatbot, PDF e-tickets and QR verification | `React` `Spring Boot` `Supabase` `Zustand` `Groq` |
-| 💪 **[PowerX Gym](https://github.com/kaifmulla3335/powerx-ai-fitness-platform)** · [Live](https://powerx-gym.vercel.app/) | AI fitness platform with chat coach, workout and diet planner, multi-model fallback via Vercel Edge Functions | `React` `Tailwind` `Groq` `OpenRouter` |
-| 🌐 **[AiVren Technologies](https://aivrentech.com/)** | Responsive client website with custom domain and business email setup | `React` `Hostinger` |
 
 ---
 
@@ -145,7 +130,7 @@ I'm a **Full Stack Developer** and Computer Science graduate with **11 months of
 
 ### 🤝 Let's connect
 
-I'm open to **Full Stack / Python / React** opportunities. Feel free to reach out!
+I'm open to **Python Full Stack** and **Java Full Stack** opportunities. Feel free to reach out!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0b1220&height=120&section=footer" width="100%"/>
 
